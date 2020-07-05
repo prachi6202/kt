@@ -1,0 +1,25 @@
+.col1, .col2, .col3, .col4, .cols {
+	float:left
+}
+.col1 {
+	width:285px
+}
+.cols {
+	width:210px
+}
+.col2 {
+	width:440px
+}
+.col3 {
+	width:430px
+}
+.col4 {
+	width:195px
+}
+/* index.html */
+#page1 .body1 {
+	background: url(../images/bg_top.gif) top repeat-x #0e0b06
+}
+#page1 header {
+	height:614px
+}
